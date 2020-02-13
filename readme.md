@@ -18,7 +18,7 @@ antigen apply
 
 ## Aliases
 
-### setup_aws_credentials
+### setup_aws_credentials
 It's used to set aws credentials on your shell environment including temporary access token (also used with MFA authentications)
 
 ```
